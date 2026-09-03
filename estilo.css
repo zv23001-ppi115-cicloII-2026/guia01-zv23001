@@ -1,8 +1,8 @@
 body {
-    background: linear-gradient(135deg, #020024, #242496,  #020024);
+    background: linear-gradient(135deg, #020024, #242496, #020024);
     font-family: 'Times New Roman';
     padding: 50px;
-    min-height: 100vh; 
+    min-height: 100vh;
     margin: 0;
     color: blanchedalmond;
 }
@@ -13,4 +13,9 @@ body {
     padding: 30px;
     max-width: 500px;
     margin: auto;
-    }
+}
+
+#zv23001 h2,
+#zv23001 h4 {
+    text-align: center;
+}
