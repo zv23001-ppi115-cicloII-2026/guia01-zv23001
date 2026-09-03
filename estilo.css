@@ -1,18 +1,48 @@
 body {
-    background: linear-gradient(135deg, #020024, #242496, #020024);
-    font-family: 'Times New Roman';
-    padding: 50px;
-    min-height: 100vh;
+    background-color: #464B71;
+    font-family: Arial, sans-serif;
     margin: 0;
-    color: blanchedalmond;
+    padding: 20px;
 }
 
+/* Tarjeta CC23031 */
+.card-cc23031 {
+    background-color: #F2F2ED;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.card-cc23031 h1 {
+    color: #464B71;
+    margin-top: 0;
+}
+
+.card-cc23031 .carnet {
+    color: #118AB2;
+    font-weight: bold;
+}
+
+.card-cc23031 p {
+    color: #333;
+    line-height: 1.5;
+    background-color: #7CD5C7;
+    font-family: Arial, sans-serif;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Tarjeta ZV23001 */
 #zv23001 {
     background: linear-gradient(135deg, #833AB4, #2B1E82, #833AB4);
     border-radius: 10px;
     padding: 30px;
     max-width: 500px;
-    margin: auto;
+    margin: 20px auto;
+    color: #ffffff;
 }
 
 #zv23001 h2,
