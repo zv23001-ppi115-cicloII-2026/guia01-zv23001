@@ -5,7 +5,7 @@ body {
     padding: 20px;
 }
 
-/* Cambiamos .card por .card-cc23031 para que sea exclusivo tuyo */
+/* Tarjeta CC23031 */
 .card-cc23031 {
     background-color: #F2F2ED;
     padding: 30px;
@@ -26,6 +26,26 @@ body {
 }
 
 .card-cc23031 p {
-    color: #333;
+    color: blanchedalmond;
     line-height: 1.5;
+    background: linear-gradient(135deg, #020024, #242496, #020024);
+    font-family: 'Times New Roman', serif;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Tarjeta ZV23001 */
+#zv23001 {
+    background: linear-gradient(135deg, #833AB4, #2B1E82, #833AB4);
+    border-radius: 10px;
+    padding: 30px;
+    max-width: 500px;
+    margin: 20px auto;
+    color: #ffffff;
+}
+
+#zv23001 h2,
+#zv23001 h4 {
+    text-align: center;
 }
