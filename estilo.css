@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(135deg, #020024, #242496,  #020024);
+    font-family: 'Times New Roman';
+    padding: 50px;
+    min-height: 100vh; 
+    margin: 0;
+    color: blanchedalmond;
+}
+
+#zv23001 {
+    background: linear-gradient(135deg, #833AB4, #2B1E82, #833AB4);
+    border-radius: 10px;
+    padding: 30px;
+    max-width: 500px;
+    margin: auto;
+    }
