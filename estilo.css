@@ -1,0 +1,31 @@
+body {
+    background-color: #464B71;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Cambiamos .card por .card-cc23031 para que sea exclusivo tuyo */
+.card-cc23031 {
+    background-color: #F2F2ED;
+    padding: 30px;
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.card-cc23031 h1 {
+    color: #464B71;
+    margin-top: 0;
+}
+
+.card-cc23031 .carnet {
+    color: #118AB2;
+    font-weight: bold;
+}
+
+.card-cc23031 p {
+    color: #333;
+    line-height: 1.5;
+}
